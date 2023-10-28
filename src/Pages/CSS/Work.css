@@ -1,0 +1,58 @@
+.work-class {
+    background-color: #221429;
+    color: #fff;
+    padding: 0;
+}
+
+.work-class-two {
+    background: #f5f5f5;
+    color: black;
+}
+
+
+.work-sec-one {
+    --bs-gutter-x: 3rem;
+    align-items: center;
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+}
+
+.work-area-image {
+    display: flex;
+    gap: 1.5rem;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+}
+
+.work-group {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.work-group>h5 {
+    font-size: 20px;
+    font-weight: 300;
+    padding-bottom: 15px;
+    text-decoration: underline;
+    text-underline-offset: 10px;
+}
+
+@keyframes shift-rightwards {
+    0% {
+        transform: translateX(-100%);
+    }
+
+    40% {
+        transform: translateX(0%);
+    }
+
+    60% {
+        transform: translateX(0%);
+    }
+
+    100% {
+        transform: translateX(100%);
+    }
+}

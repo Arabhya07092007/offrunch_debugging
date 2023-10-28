@@ -1,0 +1,362 @@
+.xcd32r {
+
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    display: flex;
+    flex-direction: column;
+  
+    gap: 3rem;
+  }
+  
+  .scr-one-heading {
+    text-decoration: underline;
+    text-underline-offset: 10px;
+  
+  }
+  
+  .btn {
+    padding-top: 13px;
+    padding-bottom: 13px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 50px;
+    font-weight: 700 !important;
+    margin-top: 0;
+  }
+  
+  .btn:hover {
+    color: none;
+  }
+  
+  .home-row-one {
+    padding-top: 2rem;
+    padding-bottom: 3rem;
+  }
+  
+  
+  .home-img-one {
+  
+    max-width: 100%; 
+    display: block; 
+    height: auto;
+  }
+  
+  .azx54t {
+    border-radius: 30px;
+  }
+  
+  
+  
+  .e3rtx {
+    font-size: 17px;
+    line-height: 1.7;
+  }
+  
+  .heading-space {
+    line-height: 1.5;
+  
+  }
+  
+  .img01 {
+    width: 100%;
+    max-width: 200px;
+    height: auto;
+  }
+  
+  .quote {
+    margin: 0;
+    display: flex;
+    padding: 30px;
+    justify-content: center;
+    background-color: #192023;
+    background-size: 46px 46px;
+    color: white;
+  }
+  
+  
+  .zm87y {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    gap: 3rem;
+  }
+  
+  .re45t {
+    padding-bottom: 1.5rem;
+  }
+  
+  .xc11er {
+    box-shadow: -5px 38px 97px -16px rgba(0, 0, 0, 0.1);
+  }
+  
+  .more-projects {
+    top: 0;
+    left: 0;
+    height: 120px;
+    display: flex;
+    flex-direction: column;
+    line-height: 40px;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3rem;
+    background-color: #25d366;
+    opacity: 1;
+    text-align: center;
+    color: #ffffff;
+  }
+  
+  .more-projects p {
+  
+    font-size: 25px;
+    font-weight: 600;
+    margin: 0;
+  }
+  
+  .see-projects {
+    top: 0;
+    left: 0;
+    height: 40px;
+    line-height: 40px;
+    width: 100%;
+    background: #4ab977;
+    text-align: center;
+    color: #ffffff;
+    font-size: 14px;
+  }
+  
+  .see-projects p {
+    padding: 0;
+    margin: 0;
+  }
+  
+  .see-projects p a {
+    background-color: #f8db5e;
+    text-decoration: none;
+    border-radius: 7px;
+    color: #286251;
+    content: attr(data-value);
+    font-family: Manrope, sans-serif;
+    font-size: 14px;
+    font-weight: 800;
+    letter-spacing: .2px;
+    line-height: 32px;
+    margin-left: 5px;
+    padding: 6px 13px;
+    width: -webkit-max-content;
+    width: max-content;
+  }
+  
+  .gfhjk {
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 3rem;
+  }
+
+  .screenOneImage img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .re4z {
+    padding-top: 50px;
+    padding-bottom: 30px;
+  }
+  
+  .fdcx {
+    background-color: #f5f5f5;
+    margin: 13px;
+    justify-content: center;
+    align-items: center;
+    display: grid;
+    padding: 20px;
+    border: 1px solid #eeeff9;
+  
+    border-radius: 20px;
+  
+  
+  
+  }
+  
+  .fdcx>h4 {
+    font-weight: 400;
+  }
+  
+  .fdcx:hover {
+    box-shadow: -5px 38px 97px -16px rgba(0, 0, 0, 0.1);
+    transform: translateY(-10px);
+    border: 1px solid #221429;
+  }
+  
+  
+  
+  .jkiuo {
+    font-weight: 400;
+    letter-spacing: -1px;
+  
+  }
+  
+  .azx45p {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+  }
+  
+  .edx3r {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+  
+  }
+  
+  .weq45r {
+    color: white;
+    margin-top: 2rem;
+  
+  }
+  
+  .daiot {
+    background-color: #15b874;
+  }
+  
+  .xaz34 {
+    background-color: #ECCD43 !important;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 1px solid #000;
+    padding: 30px;
+    border-radius: 20px;
+  }
+  
+  .xaz34:hover {
+    box-shadow: -5px 38px 97px -16px rgba(0, 0, 0, 0.1);
+    transform: translateY(-10px);
+    border: 1px solid #221429;
+  }
+  
+  .smart-gov {
+    display: flex;
+    padding: 40px;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background: #f5f5f5;
+    text-align: center;
+    color: #343a40;
+    --s: 80px;
+  
+    --_g: radial-gradient(#f5f5f5 45%, #0000 46%);
+    --_l: radial-gradient(#ffffff 15%, #0000 16%);
+    background: var(--_l), var(--_l), var(--_g), var(--_g);
+    background-position: 0 0, var(--s) var(--s);
+    background-size: calc(2 * var(--s)) calc(2 * var(--s));
+    animation: x 2s cubic-bezier(0.5, 92, 0.5, -92) infinite,
+      y 2s cubic-bezier(0.5, 92, 0.5, -92) infinite -0.5s;
+  }
+  
+  .smart-gov>h2 {
+    padding-bottom: 2rem;
+  }
+  
+  @keyframes x {
+    to {
+      background-position-x: 1px, calc(var(--s) - 1px), 0, var(--s);
+    }
+  }
+  
+  @keyframes y {
+    to {
+      background-position-y: 1px, calc(var(--s) - 1px), 0, var(--s);
+    }
+  }
+  
+  .heading-space {
+    font-weight: 400;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+  }
+  
+  .accord-cont {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+  }
+  
+  #accord-modify {
+    font-size: 18px;
+    letter-spacing: .2px;
+    border-radius: 100px;
+    background-color: #f8db5e;
+    color: #286251;
+    font-weight: 500;
+    padding-left: 2.5rem !important;
+    padding-top: 20px;
+    padding-bottom: 15px;
+  
+  }
+  
+  .accordion {
+    --bs-accordion-border-color: none;
+  
+  
+  }
+  
+  .accordion-button:after {
+    background-image: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23ffffff'><path fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/></svg>") !important;
+    margin-right: 1.5rem !important;
+  
+  }
+  
+  .backed-by {
+    background-color: #f5f5f5;
+  }
+  
+  .our-eng {
+    background-color: #192023;
+  }
+  
+  .company-logos {
+    display: flex;
+    gap: 3rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+  }
+  
+  .our-eng-heading>h2 {
+    color: white;
+  }
+  
+  .backed-by {
+    background-color: #f5f5f5;
+  }
+  
+  .backed-by-logos {
+    display: flex;
+    gap: 3rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+  }
+  
+  
+  @media only screen and (max-width: 900px) {
+    .smart-gov {
+      padding-top: 50px;
+      padding-left: 10px;
+      padding-right: 10px;
+      padding-bottom: 50px;
+    }
+  
+    .accord-cont {
+      padding-top: 1.5rem;
+      padding-bottom: 1.5rem;
+    }
+  
+    .img01 {
+      width: 50%;
+    }
+  }

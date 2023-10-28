@@ -1,0 +1,11 @@
+
+.nav-dev-tag {
+    padding-top: 10px;
+    background: #15B874;
+    color: white;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 10px;
+    width: 100%;
+    margin-bottom: 0;
+}

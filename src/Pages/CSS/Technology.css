@@ -1,0 +1,69 @@
+.tech-stack {
+    display: flex;
+    gap: 30px;
+
+    margin-top: 2rem;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.tech-container {
+    padding-top: 4rem;
+}
+
+.tech-heading {
+    border: 2px solid #eeeff9;
+    padding: 30px;
+    border-radius: 30px;
+    box-shadow: -5px 38px 97px -16px rgba(0, 0, 0, 0.1);
+}
+
+.tech-heading:hover {
+    box-shadow: -5px 38px 97px -16px rgba(0, 0, 0, 0.1);
+    transform: translateY(-10px);
+    border: 1px solid #221429;
+}
+
+
+.base-one {
+    background-color: #f5f5f5;
+    display: flex;
+    padding-top: 3rem;
+    padding-bottom: 3em;
+}
+
+.other-tech-head {
+    padding-top: 5rem;
+    padding-bottom: 2rem;
+}
+
+.tech-two-images {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+}
+
+.base-two {
+
+    display: flex;
+    padding-top: 3rem;
+    padding-bottom: 3em;
+}
+
+.badge {
+    border-radius: 50px;
+    padding: 14px;
+
+    font-size: 30px;
+    margin-bottom: 1rem;
+
+    border: 2px solid #eeeff9;
+    color: #000;
+}
+
+.base-row {
+    display: flex;
+    --bs-gutter-x: 3rem;
+}

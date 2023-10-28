@@ -1,0 +1,30 @@
+.code-school-01 {
+    padding-top: 4rem;
+}
+
+.codes-row-one{
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
+.codes-chool-08{
+    display: flex;
+    justify-content: center;
+}
+.apply-tag{
+    padding-top: 12px;
+    background: #15B874;
+    color: white;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 12px;
+    width: 100%;
+}
+
+.second-col-03{
+    background-color: #f5f5f5;
+}
+
+.code-school-04 {
+    background-color: #f5f5f5;
+}
