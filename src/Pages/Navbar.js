@@ -5,7 +5,7 @@ const Navbar = () => {
   const { pathname } = useLocation();
   return (
     <div>
-      <nav className="navbar  navbar-expand-lg">
+      <nav className="navbar navbar-expand-lg">
         <div className="container-fluid nav-hamberg">
           <a className="navbar-brand" href="#">
             <h4>Offcrunch</h4>

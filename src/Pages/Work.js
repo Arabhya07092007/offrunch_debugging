@@ -61,11 +61,11 @@ export default function Work() {
                 <h1>Technologies and Services</h1>
               </div>
               <div>
-              <p>
+              <h5>
                   The Institute has from time to time identified thrust areas of
                   research, around which several research projects and studies
                   are designed cutting across disciplinary boundaries.
-                </p>
+                </h5>
               </div>
             </Col>
           </Row>

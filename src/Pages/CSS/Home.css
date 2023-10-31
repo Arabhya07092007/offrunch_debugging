@@ -15,12 +15,12 @@
   }
   
   .btn {
-    padding-top: 13px;
-    padding-bottom: 13px;
-    padding-left: 30px;
-    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
     border-radius: 50px;
-    font-weight: 700 !important;
+    font-weight: 500 !important;
     margin-top: 0;
   }
   
@@ -48,8 +48,8 @@
   
   
   .e3rtx {
-    font-size: 17px;
-    line-height: 1.7;
+
+font-weight: 300;
   }
   
   .heading-space {
@@ -83,6 +83,7 @@
     padding-bottom: 5rem;
     gap: 3rem;
   }
+
   
   .re45t {
     padding-bottom: 1.5rem;
@@ -176,7 +177,7 @@
     padding: 20px;
     border: 1px solid #eeeff9;
   
-    border-radius: 20px;
+    border-radius: 0;
   
   
   
@@ -329,6 +330,7 @@
   
   .our-eng-heading>h2 {
     color: white;
+    text-align: center;
   }
   
   .backed-by {

@@ -18,7 +18,7 @@
     display: grid;
     padding: 30px;
     background-color: #fff;
-    border-radius: 20px;
+    border-radius: 0;
 
 }
 
@@ -62,10 +62,10 @@
 }
 
 .careers p a {
-    background-color: #15b874;
+    background-color: #fb5e84;
     text-decoration: none;
     border-radius: 7px;
-    color: #f8db5e;
+    color: #fff;
     content: attr(data-value);
     font-family: Manrope, sans-serif;
     font-size: 14px;

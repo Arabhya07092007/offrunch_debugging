@@ -6,10 +6,10 @@ nav {
     display: flex;
     width: 100%;
     z-index: 1000;
-    font-size: 16px;
+    font-size: 17px;
     justify-content: space-around;
     transition: 1.5s;
-    font-weight: 300;
+
     align-items: center;
     border-bottom: 1px solid rgb(242, 242, 242);
 }

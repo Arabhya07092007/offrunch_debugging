@@ -12,42 +12,42 @@ const Footer = () => {
 
   return (
     <div>
-      <div class="container-fluid footer-main-class">
-        <div class="container">
-          <h1 class="footer-heading">
+      <div className="container-fluid footer-main-class">
+        <div className="container">
+          <h1 className="footer-heading">
             Experience the Change,
             <br />
             You want to see.
           </h1>
 
-          <div class="row footer-social-head">
-            <div class="col-sm">
+          <div className="row footer-social-head">
+            <div className="col-sm">
               <h3>
                 <a onClick={() => openInNewTab('https://linkedin.com/offcrunch')}> LinkedIn</a>
               </h3>
             </div>
-            <div class="col-sm">
+            <div className="col-sm">
               <h3 onClick={() => openInNewTab('https://facebook.com/offcrunch')}><a>Facebook</a></h3>
             </div>
-            <div class="col-sm">
+            <div className="col-sm">
               
               <h3><a onClick={() => openInNewTab('https://instagram.com/offcrunch')}>Instagram</a></h3>
             </div>
-            <div class="col-sm">
+            <div className="col-sm">
               <h3><a onClick={() => openInNewTab('https://twitter.com/offcrunch')}>Twitter</a></h3>
             </div>
-            <div class="col-sm">
+            <div className="col-sm">
               <h3><a onClick={() => openInNewTab('https://medium.com/offcrunch')}>Medium</a></h3>
             </div>
           </div>
 
-          <div class="row row-gap">
-            <div class="col-sm footer-list">
-              <div class="footer-small-head">
+          <div className="row row-gap">
+            <div className="col-sm footer-list">
+              <div className="footer-small-head">
                 <b>Join our Community</b>
               </div>
 
-              <div class="col-sm">
+              <div className="col-sm">
                 <div className="footer-logos">
                   <div>
                     <img src={slackLogo} width="auto" height="42" />
@@ -67,8 +67,8 @@ const Footer = () => {
                 </div>
               </div>
             </div>
-            <div class="col-sm footer-list">
-              <div class="footer-small-head">
+            <div className="col-sm footer-list">
+              <div className="footer-small-head">
                 <b>Offcrunch For</b>
               </div>
               <li>Governments</li>
@@ -76,8 +76,8 @@ const Footer = () => {
               <li>Industries</li>
             </div>
 
-            <div class="col-sm footer-list">
-              <div class="footer-small-head">
+            <div className="col-sm footer-list">
+              <div className="footer-small-head">
                 <b>Legal</b>
               </div>
               <li>Terms and Conditions</li>
@@ -85,8 +85,8 @@ const Footer = () => {
               <li>GDPR</li>
             </div>
 
-            <div class="col-sm footer-list">
-              <div class="footer-small-head">
+            <div className="col-sm footer-list">
+              <div className="footer-small-head">
                 <b>Company</b>
               </div>
               <li>Terms and Conditions</li>
@@ -94,14 +94,14 @@ const Footer = () => {
               <li>GDPR</li>
             </div>
 
-            <div class="col-sm">
-              <div class="footer-small-head">
+            <div className="col-sm">
+              <div className="footer-small-head">
                 <b> Corporate Address</b>
               </div>
               <p>Chennai, Tamil Nadu - 600001</p>
             </div>
             <hr />
-            <div class="footer-copyright">
+            <div className="footer-copyright">
               <p>© 2019-2023 Offcrunch India Pvt. Ltd.</p>
             </div>
           </div>

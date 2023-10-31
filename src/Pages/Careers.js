@@ -1,22 +1,20 @@
 import React from "react";
 import "./CSS/Careers.css";
-import CareerIcon from "../Assets/icons/careers.png";
+
 const Careers = () => {
   return (
     <div>
       <div className="container-fluid sx34e">
         <div>
-          <div class="container careers-container ">
-            <div className="careers-image">
-              <img src={CareerIcon} width="auto" height="200" />
-            </div>
+          <div className="container careers-container ">
+          
             <h2 className="c23rtv">
               Work Beyond Boundaries, Embrace the Freedom of Remote Work.
             </h2>
-            <div class="row sx32v">
-              <div class="col-sm azx54t">
-                <h5 class="dc">Frontend Developer</h5>
-                <div class="careers">
+            <div className="row sx32v">
+              <div className="col-sm azx54t">
+                <h5 className="dc">Frontend Developer</h5>
+                <div className="careers">
                   <p>
                     <small>
                       <a href="https://www.oracular.com/index.php?option=com_content&view=article&id=79">
@@ -27,14 +25,14 @@ const Careers = () => {
                 </div>
                 <p>We are looking for an Enthusiast Frontend Developer.</p>
                 <div>
-                  <button type="button" class="btn btn-primary">
+                  <button type="button" className="btn btn-primary">
                     Apply Now
                   </button>
                 </div>
               </div>
-              <div class="col-sm azx54t">
+              <div className="col-sm azx54t">
                 <h5>UI-UX Designer</h5>
-                <div class="careers">
+                <div className="careers">
                   <p>
                     <small>
                       <a href="https://www.oracular.com/index.php?option=com_content&view=article&id=79">
@@ -47,15 +45,15 @@ const Careers = () => {
                   Join our team of designers and developers to create websites.
                 </p>
                 <div>
-                  <button type="button" class="btn btn-primary">
+                  <button type="button" className="btn btn-primary">
                     Apply Now
                   </button>
                 </div>
               </div>
 
-              <div class="col-sm azx54t">
+              <div className="col-sm azx54t">
                 <h5>Machine Learning Researcher</h5>
-                <div class="careers">
+                <div className="careers">
                   <p>
                     <small>
                       <a href="https://www.oracular.com/index.php?option=com_content&view=article&id=79">
@@ -69,17 +67,17 @@ const Careers = () => {
                   models.
                 </p>
                 <div>
-                  <button type="button" class="btn btn-primary">
+                  <button type="button" className="btn btn-primary">
                     Apply Now
                   </button>
                 </div>
               </div>
             </div>
 
-            <div class="row sx32v">
-              <div class="col-sm azx54t">
-                <h5 class="dc">Backend Developer</h5>
-                <div class="careers">
+            <div className="row sx32v">
+              <div className="col-sm azx54t">
+                <h5 className="dc">Backend Developer</h5>
+                <div className="careers">
                   <p>
                     <small>
                       <a href="https://www.oracular.com/index.php?option=com_content&view=article&id=79">
@@ -92,15 +90,15 @@ const Careers = () => {
                   Join in as a Backend Developer to create APIs and backend.
                 </p>
                 <div>
-                  <button type="button" class="btn btn-primary">
+                  <button type="button" className="btn btn-primary">
                     Apply Now
                   </button>
                 </div>
               </div>
-              <div class="col-sm azx54t">
+              <div className="col-sm azx54t">
                 <h5>Senior Machine Learning Researcher</h5>
 
-                <div class="careers">
+                <div className="careers">
                   <p>
                     <small>
                       <a href="https://www.oracular.com/index.php?option=com_content&view=article&id=79">
@@ -114,15 +112,15 @@ const Careers = () => {
                   models.
                 </p>
                 <div>
-                  <button type="button" class="btn btn-primary">
+                  <button type="button" className="btn btn-primary">
                     Apply Now
                   </button>
                 </div>
               </div>
 
-              <div class="col-sm azx54t">
+              <div className="col-sm azx54t">
                 <h5>GIS Researcher</h5>
-                <div class="careers">
+                <div className="careers">
                   <p>
                     <small>
                       <a href="https://www.oracular.com/index.php?option=com_content&view=article&id=79">
@@ -136,7 +134,7 @@ const Careers = () => {
                   applications, and programs.
                 </p>
                 <div>
-                  <button type="button" class="btn btn-primary">
+                  <button type="button" className="btn btn-primary">
                     Apply Now
                   </button>
                 </div>

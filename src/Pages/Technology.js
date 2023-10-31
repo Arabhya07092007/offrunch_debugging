@@ -9,14 +9,14 @@ import Logistics from "../Assets/icons/logistics.png";
 const Technology = () => {
   return (
     <div>
-      <div class="container tech-container">
+      <div className="container tech-container">
         <div>
           <h2>Our Technologies</h2>
         </div>
-        <div class="row tech-stack">
-          <div class="col-sm tech-heading">
+        <div className="row tech-stack">
+          <div className="col-sm tech-heading">
             <div>
-              <span class="badge">01</span>
+              <span className="badge">01</span>
             </div>
 
             <h5>Machine Learning and Predective Analysis</h5>
@@ -29,9 +29,9 @@ const Technology = () => {
               confidence.
             </p>
           </div>
-          <div class="col-sm tech-heading">
+          <div className="col-sm tech-heading">
             <div>
-              <span class="badge">02</span>
+              <span className="badge">02</span>
             </div>
             <h5>Text Mining and Natural Language Processing NLP</h5>
             <p>
@@ -43,9 +43,9 @@ const Technology = () => {
               making data-driven decisions easier than ever.
             </p>
           </div>
-          <div class="col-sm tech-heading">
+          <div className="col-sm tech-heading">
             <div>
-              <span class="badge">03</span>
+              <span className="badge">03</span>
             </div>
             <h5>Big Data Analytics</h5>
             <p>
@@ -58,10 +58,10 @@ const Technology = () => {
           </div>
         </div>
 
-        <div class="row tech-stack">
-          <div class="col-sm tech-heading">
+        <div className="row tech-stack">
+          <div className="col-sm tech-heading">
             <div>
-              <span class="badge">04</span>
+              <span className="badge">04</span>
             </div>
             <h5>Cluster Analysis and Segmentation</h5>
             <p>
@@ -72,9 +72,9 @@ const Technology = () => {
               tailor your services and communications for maximum impact.
             </p>
           </div>
-          <div class="col-sm tech-heading">
+          <div className="col-sm tech-heading">
             <div>
-              <span class="badge">05</span>
+              <span className="badge">05</span>
             </div>
             <h5>Pattern Recognition</h5>
             <p>
@@ -86,9 +86,9 @@ const Technology = () => {
               delivery.
             </p>
           </div>
-          <div class="col-sm tech-heading">
+          <div className="col-sm tech-heading">
             <div>
-              <span class="badge">06</span>
+              <span className="badge">06</span>
             </div>
             <h5>GeoSpatial Analysis</h5>
             <p>
@@ -101,13 +101,13 @@ const Technology = () => {
           </div>
         </div>
       </div>
-      <div class="container other-tech-head">
+      <div className="container other-tech-head">
         <h2>More Technologies we use</h2>
       </div>
-      <section class="base-one">
-        <div class="container">
-          <div class="row base-row">
-            <div class="col-sm">
+      <section className="base-one">
+        <div className="container">
+          <div className="row base-row">
+            <div className="col-sm">
               <h5>Data Visualisation and Business Intelligence</h5>
               <p>
                 Unlocking the Power of Data: Data, when presented effectively,
@@ -121,7 +121,7 @@ const Technology = () => {
                 decisions with confidence.
               </p>
             </div>
-            <div class="col-sm tech-two-images">
+            <div className="col-sm tech-two-images">
               <div>
                 <img src={DA} width="auto" height="100" />
               </div>
@@ -130,14 +130,14 @@ const Technology = () => {
         </div>
       </section>
 
-      <section class="base-two">
-        <div class="container">
-          <div class="row">
-            <div class="col-sm tech-two-images">
+      <section className="base-two">
+        <div className="container">
+          <div className="row">
+            <div className="col-sm tech-two-images">
               {" "}
               <img src={Clock} width="auto" height="150" />
             </div>
-            <div class="col-sm">
+            <div className="col-sm">
               <h5>Time Series Analysis</h5>
               <p>
                 Harnessing Time for Insight: Time is a critical factor in
@@ -155,10 +155,10 @@ const Technology = () => {
         </div>
       </section>
 
-      <section class="base-one">
-        <div class="container">
-          <div class="row base-row">
-            <div class="col-sm">
+      <section className="base-one">
+        <div className="container">
+          <div className="row base-row">
+            <div className="col-sm">
               <h5>Healthcare Analysis</h5>
               <p>
                 Empowering Public Healthcare: Public healthcare is a cornerstone
@@ -171,7 +171,7 @@ const Technology = () => {
                 positively impact public health.
               </p>
             </div>
-            <div class="col-sm tech-two-images">
+            <div className="col-sm tech-two-images">
               <div>
                 <img src={Healthcare} width="auto" height="200" />
               </div>
@@ -180,13 +180,13 @@ const Technology = () => {
         </div>
       </section>
 
-      <section class="base-two">
-        <div class="container">
-          <div class="row">
-            <div class="col-sm tech-two-images">
+      <section className="base-two">
+        <div className="container">
+          <div className="row">
+            <div className="col-sm tech-two-images">
               <img src={Search} width="auto" height="150" />
             </div>
-            <div class="col-sm">
+            <div className="col-sm">
               <h5>Fraud Detection and Cyber Security Analytics</h5>
               <p>
                 Guardians of Data Security: Data security and fraud prevention
@@ -203,10 +203,10 @@ const Technology = () => {
         </div>
       </section>
 
-      <section class="base-one">
-        <div class="container">
-          <div class="row base-row">
-            <div class="col-sm">
+      <section className="base-one">
+        <div className="container">
+          <div className="row base-row">
+            <div className="col-sm">
               <h5>Financial Analytics</h5>
               <p>
                 Ensuring Fiscal Responsibility: Financial transparency and
@@ -220,20 +220,20 @@ const Technology = () => {
                 governance.
               </p>
             </div>
-            <div class="col-sm tech-two-images">
+            <div className="col-sm tech-two-images">
               <img src={Money} width="auto" height="150" />
             </div>
           </div>
         </div>
       </section>
 
-      <section class="base-two">
-        <div class="container">
-          <div class="row">
-            <div class="col-sm tech-two-images">
+      <section className="base-two">
+        <div className="container">
+          <div className="row">
+            <div className="col-sm tech-two-images">
               <img src={Logistics} width="auto" height="150" />
             </div>
-            <div class="col-sm">
+            <div className="col-sm">
               <h5>Supply Chain Logistics Analysis</h5>
               <p>
                 Optimizing Resource Distribution: Efficient supply chain

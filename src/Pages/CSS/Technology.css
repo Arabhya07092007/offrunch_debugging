@@ -14,7 +14,7 @@
 .tech-heading {
     border: 2px solid #eeeff9;
     padding: 30px;
-    border-radius: 30px;
+
     box-shadow: -5px 38px 97px -16px rgba(0, 0, 0, 0.1);
 }
 
@@ -53,7 +53,7 @@
 }
 
 .badge {
-    border-radius: 50px;
+    border-radius: 0;
     padding: 14px;
 
     font-size: 30px;
